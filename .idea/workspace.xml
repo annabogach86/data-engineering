@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="665daa33-f5c9-44fc-8001-70f6c98aae77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/original.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/original.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/test.json" beforeDir="false" />
-    </list>
+    <list default="true" id="665daa33-f5c9-44fc-8001-70f6c98aae77" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +72,7 @@
       <workItem from="1701420948802" duration="16000" />
       <workItem from="1701420968279" duration="1248000" />
       <workItem from="1701692055909" duration="45000" />
+      <workItem from="1701702290781" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="Задание 3 1-4 задачи">
       <created>1700206772823</created>
@@ -107,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701421826568</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="поправленные">
+      <created>1701702319900</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701702319900</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +122,8 @@
     <MESSAGE value="Задание 3 1-4 задачи" />
     <MESSAGE value="Задание 3" />
     <MESSAGE value="Задание 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 4" />
+    <MESSAGE value="поправленные" />
+    <option name="LAST_COMMIT_MESSAGE" value="поправленные" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_engineering$__1_stramlit.coverage" NAME="Чат_бот_1_stramlit Coverage Results" MODIFIED="1700652423555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PI-project1" />
