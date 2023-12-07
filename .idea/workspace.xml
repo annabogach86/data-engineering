@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="665daa33-f5c9-44fc-8001-70f6c98aae77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_11_2023_23_38__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_11_2023_23_38__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Задача 1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Задача 1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Задача 2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Задача 2-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Задача 3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Задача 3-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Задача 4-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Задача 4-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filtered_properties_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/filtered_properties_3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/four_properties_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/four_properties_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oll_properties_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/oll_properties_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/price_analysis_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/price_analysis_4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quantity_analysis_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/quantity_analysis_4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sorted_properties_3.json" beforeDir="false" afterPath="$PROJECT_DIR$/sorted_properties_3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/three_properties_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/three_properties_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/top_10_updated_products_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/top_10_updated_products_4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/top_10_updated_products_cities_4.json" beforeDir="false" afterPath="$PROJECT_DIR$/top_10_updated_products_cities_4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Задача 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Задача 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Задача 3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Задача 4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/.ipynb_checkpoints/Задача 5-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Задача 5/.ipynb_checkpoints/Задача 5-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/earthquake_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/earthquakes.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/output_1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/output_2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/output_3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/output_4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/output_5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/output_6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задача 5/Задача 5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Задача 5/Задача 5.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="665daa33-f5c9-44fc-8001-70f6c98aae77" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701702319900</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="исправленные">
+      <created>1701968054179</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701968054179</updated>
+    </task>
+    <task id="LOCAL-00007" summary="исправленные">
+      <created>1701968075983</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701968075983</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +137,8 @@
     <MESSAGE value="Задание 3" />
     <MESSAGE value="Задание 4" />
     <MESSAGE value="поправленные" />
-    <option name="LAST_COMMIT_MESSAGE" value="поправленные" />
+    <MESSAGE value="исправленные" />
+    <option name="LAST_COMMIT_MESSAGE" value="исправленные" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_engineering$__1_stramlit.coverage" NAME="Чат_бот_1_stramlit Coverage Results" MODIFIED="1700652423555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PI-project1" />
