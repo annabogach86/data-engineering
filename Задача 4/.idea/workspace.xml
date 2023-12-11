@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dad5c02-1242-4978-934d-20836171a6dd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../age_by_city_2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../age_by_profession_2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../profession_stats_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../profession_stats_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../result_2_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../result_2_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../salary_by_city_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../salary_by_city_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../salary_by_profession_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../salary_by_profession_2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Задача 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Задача 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +39,7 @@
       <workItem from="1702284912228" duration="44000" />
       <workItem from="1702285332951" duration="65000" />
       <workItem from="1702285706450" duration="416000" />
+      <workItem from="1702286648963" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Задача 4 сжатие файлов">
       <created>1702283633901</created>

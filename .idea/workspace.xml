@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="665daa33-f5c9-44fc-8001-70f6c98aae77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Задача 4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Задача 4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Задача 4" />
   </component>
   <component name="RunManager">
     <configuration name="Чат_бот_1_stramlit" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -84,7 +85,8 @@
       <workItem from="1702284959045" duration="368000" />
       <workItem from="1702285400663" duration="187000" />
       <workItem from="1702285680710" duration="23000" />
-      <workItem from="1702286129075" duration="452000" />
+      <workItem from="1702286129075" duration="514000" />
+      <workItem from="1702286656701" duration="96000" />
     </task>
     <task id="LOCAL-00001" summary="Задание 3 1-4 задачи">
       <created>1700206772823</created>
@@ -156,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702286152421</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Задание 5">
+      <created>1702286636126</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702286636126</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
