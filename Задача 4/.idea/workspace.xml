@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dad5c02-1242-4978-934d-20836171a6dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../age_by_city_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../age_by_profession_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profession_stats_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../profession_stats_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../result_2_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../result_2_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary_by_city_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../salary_by_city_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salary_by_profession_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../salary_by_profession_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Задача 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Задача 2.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZOAvJHQl8XqrZcVx6yne5NLzNy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dad5c02-1242-4978-934d-20836171a6dd" name="Changes" comment="" />
+      <created>1702282980942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702282980942</updated>
+      <workItem from="1702282982434" duration="16000" />
+      <workItem from="1702283609489" duration="83000" />
+      <workItem from="1702283696406" duration="28000" />
+      <workItem from="1702284852550" duration="57000" />
+      <workItem from="1702284912228" duration="44000" />
+      <workItem from="1702285332951" duration="65000" />
+      <workItem from="1702285706450" duration="416000" />
+    </task>
+    <task id="LOCAL-00001" summary="Задача 4 сжатие файлов">
+      <created>1702283633901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702283633901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Задача 4 сжатие файлов">
+      <created>1702283711052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702283711052</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задача 4 сжатие файлов">
+      <created>1702284862407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702284862407</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задача 4 сжатие файлов">
+      <created>1702284928182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702284928182</updated>
+    </task>
+    <task id="LOCAL-00005" summary="убрала файлы">
+      <created>1702285350634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702285350634</updated>
+    </task>
+    <task id="LOCAL-00006" summary="убрала файлы">
+      <created>1702285721552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702285721552</updated>
+    </task>
+    <task id="LOCAL-00007" summary="убрала файлы">
+      <created>1702285764893</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702285764893</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Задача 4 сжатие файлов" />
+    <MESSAGE value="убрала файлы" />
+    <option name="LAST_COMMIT_MESSAGE" value="убрала файлы" />
+  </component>
+</project>
