@@ -1,0 +1,1 @@
+{"Rpt Dist No": "uint16", "Vict Age": "int64", "TIME OCC": "uint16", "AREA": "float32", "AREA NAME": "category", "Crm Cd Desc": "category", "Vict Sex": "category", "Premis Desc": "category", "Status": "category", "LOCATION": "category"}

@@ -1,0 +1,1 @@
+{"id": "uint32", "salary_from": "float32", "salary_to": "float32", "address_description": "float32", "address_lat": "float32", "address_lng": "float32", "description": "object", "schedule_name": "category", "experience_name": "category", "billing_type_name": "category"}
