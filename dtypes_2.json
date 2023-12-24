@@ -1,0 +1,1 @@
+{"Unnamed: 0": "float32", "firstSeen": "string", "askPrice": "int64", "isNew": "category", "brandName": "category", "modelName": "category", "vf_Seats": "int64", "vf_WheelBaseShort": "int64", "vf_WheelSizeRear": "int64", "vf_Wheels": "int64", "vf_Windows": "int64"}

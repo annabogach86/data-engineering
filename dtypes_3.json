@@ -1,0 +1,1 @@
+{"MONTH": "uint8", "DAY_OF_WEEK": "uint8", "AIRLINE": "category", "ORIGIN_AIRPORT": "category", "DEPARTURE_TIME": "float32", "SCHEDULED_TIME": "float32", "FLIGHT_NUMBER": "uint16", "DIVERTED": "uint8", "TAIL_NUMBER": "category", "DESTINATION_AIRPORT": "category"}
